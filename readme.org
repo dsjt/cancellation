@@ -1,5 +1,5 @@
-frederica.cpp:
+reccur.cpp:
 問題1，精度を変更して漸化式を計算する
 
-ichinose.cpp:
+gauss_elim.cpp:
 問題2，ガウスの消去法を用いて
